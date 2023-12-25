@@ -26,3 +26,6 @@ Dự báo thời tiết
 
 ## Link github
 https://github.com/Cancogang69/SE355
+
+## Link dataset
+https://drive.google.com/file/d/19jkJPnxVoB8optBOq_L9LCrOk3yJ9nQh/view?usp=sharing
